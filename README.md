@@ -8,6 +8,6 @@ git clone https://github.com/3illy/Movie_Trailer_Website.git
 
 ## What's included
 
-entertainment_center.py
-fresh_tomatoes.py
-media.py
+1. entertainment_center.py
+2. fresh_tomatoes.py
+3. media.py
